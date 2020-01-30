@@ -3,16 +3,12 @@ import com.example.dep2.Hello
 import com.example3.Foo
 
 object Main {
-  def main(args: Array[String]) {
-    println("runs!")
+  // Scala OK: navigates to source, with full jar + source jar attached
+  new Hi().sayHi("full jar")
 
-    // full jar
-    new Hi().sayHi("full jar")
+  // Scala NOT OK: interface jar + source jar attached
+  new Hello().sayHello("interface jar")
 
-    // interface jar
-    new Hello().sayHello("interface jar")
-
-    // java interface jar
-    new Foo().foo()
-  }
+  // Java OK: interface jar + source jar attached
+  new Foo().foo()
 }
