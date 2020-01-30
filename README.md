@@ -5,9 +5,9 @@ Demonstrates issue with Scala jar source attachment in Intellij if jar is interf
 
 There are three cases demonstrated:
  - Attached fully Scala compiled jar + source jar. Works: Navigates correctly to source file.
- - Attached just Scala interface jar + source jar. Does not work: navigates to class file.
+ - **Attached just Scala interface jar + source jar. Does not work: navigates to class file.**
  - Attached just Java interface jar + source jar. Works: navigates to source file.
  
-Not needed to reproduce, but some background/motivation: 
+Not required to reproduce, but some background/motivation: 
 Issue was discovered with Bazel build system which produces interface jars for performance reasons during one of compilation phases.
 Scala interface jar is produced by Scala Bazel support https://github.com/bazelbuild/rules_scala
