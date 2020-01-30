@@ -1,7 +1,7 @@
 Demonstrates issue with Scala jar source attachment in Intellij if jar is interface
 
-**What to look at**:
-`src/Main.scala`
+**Where to look at**:
+[`src/Main.scala`](https://github.com/liucijus/scala-interface-jar-repro/blob/master/src/Main.scala)
 
 There are three cases demonstrated:
  - Attached fully Scala compiled jar + source jar. Works: Navigates correctly to source file.

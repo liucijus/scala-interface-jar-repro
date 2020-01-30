@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4018b734-0b90-4b3c-bdd2-57d3e42b9733" name="Default Changelist" comment="" />
+    <list default="true" id="4018b734-0b90-4b3c-bdd2-57d3e42b9733" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +28,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/dep2/dep2-src.jar!/" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -57,7 +62,19 @@
       <option name="presentableId" value="Default" />
       <updated>1580388245247</updated>
     </task>
+    <task id="LOCAL-00001" summary="Add comments, remove main method">
+      <created>1580389903387</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580389903388</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add comments, remove main method" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add comments, remove main method" />
   </component>
   <component name="WindowStateProjectService">
     <state x="3298" y="378" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580388913000">
@@ -68,6 +85,10 @@
       <screen x="1920" y="0" width="2560" height="1440" />
     </state>
     <state x="3471" y="314" width="724" height="567" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.25.1920.1055/1920.0.2560.1440@1920.0.2560.1440" timestamp="1580389226069" />
+    <state x="3326" y="151" width="859" height="966" key="CommitChangelistDialog2" timestamp="1580390702560">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state x="3326" y="151" width="859" height="966" key="CommitChangelistDialog2/0.25.1920.1055/1920.0.2560.1440@1920.0.2560.1440" timestamp="1580390702560" />
     <state x="3391" y="315" width="478" height="560" key="DetectedRootsChooserDialog" timestamp="1580389225272">
       <screen x="1920" y="0" width="2560" height="1440" />
     </state>
@@ -92,13 +113,17 @@
       <screen x="1920" y="0" width="2560" height="1440" />
     </state>
     <state width="1232" height="408" key="GridCell.Tab.0.right/0.25.1920.1055/1920.0.2560.1440@1920.0.2560.1440" timestamp="1580389239430" />
-    <state x="2503" y="174" width="1920" height="1055" key="SettingsEditor" timestamp="1580389227331">
+    <state x="2503" y="174" width="1920" height="1055" key="SettingsEditor" timestamp="1580390063194">
       <screen x="1920" y="0" width="2560" height="1440" />
     </state>
-    <state x="2503" y="174" width="1920" height="1055" key="SettingsEditor/0.25.1920.1055/1920.0.2560.1440@1920.0.2560.1440" timestamp="1580389227331" />
+    <state x="2503" y="174" width="1920" height="1055" key="SettingsEditor/0.25.1920.1055/1920.0.2560.1440@1920.0.2560.1440" timestamp="1580390063194" />
     <state width="498" height="446" key="SwitcherDM" timestamp="1580388975389">
       <screen x="1920" y="0" width="2560" height="1440" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.25.1920.1055/1920.0.2560.1440@1920.0.2560.1440" timestamp="1580388975389" />
+    <state x="3431" y="456" width="802" height="523" key="Vcs.Push.Dialog.v2" timestamp="1580390704022">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state x="3431" y="456" width="802" height="523" key="Vcs.Push.Dialog.v2/0.25.1920.1055/1920.0.2560.1440@1920.0.2560.1440" timestamp="1580390704022" />
   </component>
 </project>
